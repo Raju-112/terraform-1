@@ -3,6 +3,6 @@
 
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIARWNEGFWXXCD652PO"
-  secret_key = "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"
+  access_key = "AKIARJNZ7IJBKEUHDFEE"
+  secret_key = "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"
 }
